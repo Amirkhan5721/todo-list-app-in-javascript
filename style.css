@@ -24,6 +24,7 @@ body {
 }
 /* Title styling */
 h1 {
+    margin-top: 13px;
     color: #4a90e2;
     font-size: 24px;
     margin-bottom: 20px;
